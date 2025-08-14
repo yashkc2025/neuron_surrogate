@@ -12,10 +12,10 @@ This project implements a high-fidelity machine learning surrogate for a biologi
 ## Table of Contents
 
 1. [Project Overview](#1-project-overview)
-2. [Core Methodology](2-core-methodology)
-3. [File Structure](3-file-structure)
-4. [Installation & Usage](4-installation--usage)
-5. [Results](5-results)
+2. [Core Methodology](#2-core-methodology)
+3. [File Structure](#3-file-structure)
+4. [Installation & Usage](#4-installation--usage)
+5. [Results](#5-results)
 
 -----
 
